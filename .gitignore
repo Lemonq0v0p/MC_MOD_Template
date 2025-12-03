@@ -1,0 +1,23 @@
+# Gradle files
+.gradle/
+build/
+
+# IDE files (IntelliJ / Eclipse)
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.classpath
+.project
+bin/
+
+# Minecraft Run Data (ログやセーブデータ)
+run/
+
+# DataGen Generated Resources
+#src/generated/
+
+# OS specific
+.DS_Store
+Thumbs.db
